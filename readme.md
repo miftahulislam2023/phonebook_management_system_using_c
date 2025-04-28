@@ -1,4 +1,4 @@
-# Phonebook Management System
+# Project Title: Phone Book Management System Using Linked List
 
 A simple C application to manage contacts with basic CRUD operations.
 
